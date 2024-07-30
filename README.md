@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravmad&label=Profile%20views&color=0e75b6&style=flat" alt="gauravmad" /> </p>
 
 - 🔭 I’m currently working on building mobile application **Bunchup**
-- 💬 Ask me about **React JS | React Native | UI/UX**
+- 💬 Ask me about **React JS | Next JS | React Native | UI/UX**
  <br/> 
 
 <h3 align="left">Connect with me:</h3>
