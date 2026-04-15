@@ -15,15 +15,6 @@ AI & Tech Generalist @ Mesa School of Business <br/>
 🧠 Idea → 🤖 AI Workflow → ⚙️ Product Build → 🚀 Launch → 📈 Scale
 </p>
 
----
-
-<h1 align="center">Hi 👋 I'm Gaurav Madan</h1>
-
-<h3 align="center">
-AI & Tech Generalist @ Mesa School of Business <br/>
-Building AI Products • Full Stack Systems • Startup MVPs
-</h3>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=gauravmad&label=Profile%20Views&color=06b6d4&style=flat" />
 </p>
