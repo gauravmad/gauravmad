@@ -1,118 +1,113 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- PREMIUM GITHUB README FOR GAURAV MADAN -->
 
-<h1 align="center">Hi 👋, I'm Gaurav Madan</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Gaurav%20Madan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Tech%20Generalist%20•%20Full%20Stack%20Engineer%20•%20Startup%20Builder&descAlignY=58&descSize=18" width="100%" />
+
+<h1 align="center">Hi 👋 I'm Gaurav Madan</h1>
+
 <h3 align="center">
-AI & Tech Generalist @Mesa | GenAI Developer | Full Stack Web & Mobile Engineer | Cybersecurity Enthusiast
+AI & Tech Generalist @ Mesa School of Business <br/>
+Building AI Products • Full Stack Systems • Startup MVPs
 </h3>
 
 <p align="center">
-Building scalable AI-powered products • Agentic AI • Cloud-native apps • UX-driven engineering
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gauravmad&label=Profile%20views&color=0e75b6&style=flat" alt="gauravmad" />
+<img src="https://komarev.com/ghpvc/?username=gauravmad&label=Profile%20Views&color=06b6d4&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi, I’m **Gaurav Madan** — a **Cybersecurity Enthusiast** and **Computer Science Engineering graduate** with **2+ years of hands-on experience** in **Full Stack Web & Mobile App Development** and **AI-driven applications**.
+I'm **Gaurav Madan**, an **AI Tech Generalist** focused on building scalable products, internal systems, and AI-powered solutions for startups.
 
-I specialize in building **scalable, high-performance, and user-centric products** using **React.js, Next.js, and React Native**, with a strong emphasis on **UI/UX design**.  
-I also work extensively with **GenAI, automation, cloud-native architectures, and agentic AI systems**.
+Currently working at **Mesa School of Business**, where I help build products, automate operations, launch startup MVPs, and scale technology systems.
 
-### 💡 What I’ve been doing:
-- 🧠 **AI & GenAI Development** – building AI-powered apps, automation, and agent-based workflows  
-- 🏗 **Startup Engineering** – led the complete tech stack for my own startup (event-based social platform)  
-- 🏢 **Industry Experience** – worked with **10+ product-based startups** across FinTech, Media, Consulting  
-- 🌍 **Freelancing** – delivered **35+ production-ready web & mobile applications**  
-- ☁️ **Cloud & DevOps** – AWS deployments, CI/CD pipelines, scalable infra  
-- 🔐 **Cybersecurity** – security-aware engineering & best practices  
+I combine **engineering + product thinking + execution**.
 
-I love solving **real-world problems**, collaborating with **mission-driven teams**, and **building products from zero to scale**.
+### 💡 What I Work On
 
----
-
-## 🔭 Current Focus
-- Building **AI-powered & agentic applications**
-- Exploring **No-Code / Low-Code automation**
-- Scaling **cloud-native systems on AWS**
-- Shipping production-ready **GenAI products**
+- 🤖 AI Products, GenAI Apps & Agentic Systems  
+- 🌐 Full Stack Web / Mobile Applications  
+- ☁️ Cloud Infrastructure (GCP / AWS / Azure)  
+- ⚡ Startup MVPs from Idea → Launch  
+- 🔄 Internal Tools & Automation Systems  
+- 🎯 Product Strategy + Technical Execution
 
 ---
 
-## 💬 Ask Me About
-**GenAI • Agentic AI • React • Next.js • React Native • AWS • UI/UX • Full Stack • Automation**
+## 🧠 Current Focus
+
+- Building premium AI SaaS products  
+- Startup validation tools & founder platforms  
+- Automation workflows & internal systems  
+- Scalable cloud-native deployments  
+- AI + Product + Growth systems
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/gauravdev04" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/gauravmadan2004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+## 🛠 Tech Stack
 
----
-
-## 🛠 Languages & Tools
-
-### 🧠 AI / GenAI / Automation
+### AI / Automation
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/>
 </p>
 
-### 🌐 Frontend & Mobile
+### Frontend
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
-### 🖥 Backend & Databases
+### Backend / Infra
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
 
-### ☁️ Cloud, DevOps & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/gauravdev04" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+</a>
+
+<a href="mailto:gauravmadan2004@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravmad&show_icons=true&locale=en&layout=compact" />
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gauravmad&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravmad&show_icons=true&locale=en" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmad&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmad" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-⭐ **Let’s build impactful, intelligent products together.**
+## ⚡ Motto
+
+> Build products that matter.  
+> Move fast. Learn faster. Ship always.
+
+---
+
+⭐ Open to collaborating on AI products, startups, and scalable systems.
