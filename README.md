@@ -1,7 +1,13 @@
 <!-- PREMIUM GITHUB README FOR GAURAV MADAN -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0891b2&height=240&section=header&text=Gaurav%20Madan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Tech%20Generalist%20@%20Mesa%20•%20Full%20Stack%20Engineer%20•%20Startup%20Builder&descAlignY=58&descSize=18" width="100%" />
-</p>
+<!-- PREMIUM GITHUB README FOR GAURAV MADAN -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Gaurav%20Madan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Tech%20Generalist%20•%20Full%20Stack%20Engineer%20•%20Startup%20Builder&descAlignY=58&descSize=18" width="100%" />
+
+<h1 align="center">Hi 👋 I'm Gaurav Madan</h1>
+
+<h3 align="center">
+AI & Tech Generalist @ Mesa School of Business <br/>
+</h3>
 
 <h3 align="center">⚡ Turning ideas into scalable products with AI, code & execution</h3>
 
