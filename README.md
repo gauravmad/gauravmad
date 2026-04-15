@@ -1,15 +1,12 @@
-<!-- PREMIUM GITHUB README FOR GAURAV MADAN -->
-<!-- PREMIUM GITHUB README FOR GAURAV MADAN -->
+<!-- FINAL PREMIUM GITHUB README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=Gaurav%20Madan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Tech%20Generalist%20•%20Full%20Stack%20Engineer%20•%20Startup%20Builder&descAlignY=58&descSize=18" width="100%" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=230&section=header&text=Gaurav%20Madan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Tech%20Generalist%20@%20Mesa%20•%20Full%20Stack%20Engineer&descAlignY=60&descSize=18" width="100%" />
+</p>
 
-<h1 align="center">Hi 👋 I'm Gaurav Madan</h1>
-
-<h3 align="center">
-AI & Tech Generalist @ Mesa School of Business <br/>
-</h3>
-
-<h3 align="center">⚡ Turning ideas into scalable products with AI, code & execution</h3>
+<p align="center">
+<b>⚡ Turning ideas into scalable products with AI, code & execution</b>
+</p>
 
 <p align="center">
 🧠 Idea → 🤖 AI Workflow → ⚙️ Product Build → 🚀 Launch → 📈 Scale
@@ -23,30 +20,31 @@ AI & Tech Generalist @ Mesa School of Business <br/>
 
 ## 🚀 About Me
 
-I'm **Gaurav Madan**, an **AI Tech Generalist** focused on building scalable products, internal systems, and AI-powered solutions for startups.
+Hi, I'm **Gaurav Madan** — currently working as **AI & Tech Generalist @ Mesa School of Business**.
 
-Currently working at **Mesa School of Business**, where I help build products, automate operations, launch startup MVPs, and scale technology systems.
+I build **AI-powered products, internal systems, startup MVPs, and scalable technology infrastructure**.  
+My work combines **engineering + product thinking + fast execution**.
 
-I combine **engineering + product thinking + execution**.
+---
 
-### 💡 What I Work On
+## 💡 What I Work On
 
-- 🤖 AI Products, GenAI Apps & Agentic Systems  
+- 🤖 GenAI Products, AI Agents & Automation Systems  
 - 🌐 Full Stack Web / Mobile Applications  
 - ☁️ Cloud Infrastructure (GCP / AWS / Azure)  
 - ⚡ Startup MVPs from Idea → Launch  
-- 🔄 Internal Tools & Automation Systems  
-- 🎯 Product Strategy + Technical Execution
+- 🔄 Internal Platforms & Operations Tech  
+- 🎯 Product Strategy + Technical Execution  
 
 ---
 
 ## 🧠 Current Focus
 
 - Building premium AI SaaS products  
-- Startup validation tools & founder platforms  
-- Automation workflows & internal systems  
+- Founder tools & startup operating systems  
+- Workflow automation & internal platforms  
 - Scalable cloud-native deployments  
-- AI + Product + Growth systems
+- AI + Product + Growth systems  
 
 ---
 
