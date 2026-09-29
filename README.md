@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,60:9a3412,100:f97316&height=210&section=header&text=Gaurav%20Madan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Founding%20Engineer%20%C2%B7%20AI%20%26amp%3B%20Technical%20Lead%20%40%20Mesa%20Startup%20Lab&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Gaurav Madan - Founding Engineer, AI & Technical Lead at Mesa Startup Lab" />
+<img src="assets/header.svg" width="100%" alt="Gaurav Madan - Founding Engineer, AI &amp; Technical Lead @ Mesa Startup Lab, Bengaluru" />
 
 <div align="center">
 
@@ -6,7 +6,6 @@
 
 <a href="https://linkedin.com/in/gauravdev04"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logoColor=F97316" alt="LinkedIn" /></a>
 <a href="mailto:gauravmadan2004@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F97316" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Bengaluru,_India-111827?style=for-the-badge&logo=googlemaps&logoColor=F97316" alt="Based in Bengaluru, India" />
 
 </div>
 
@@ -66,4 +65,4 @@ export const howIBuild = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,40:9a3412,100:111827&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
