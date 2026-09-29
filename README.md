@@ -1,62 +1,22 @@
-<img src="assets/header.svg?v=2" width="100%" alt="Gaurav Madan - I turn founder ideas into AI products that ship. Idea in, discovery, context, build, memory, ship, with a feedback loop from users" />
+<img src="assets/header.svg?v=3" width="100%" alt="Gaurav Madan - Founding Engineer, AI &amp; Technical Lead @ Mesa Startup Lab. Agent pipeline: input, router agent, tool calls, knowledge graph, guardrails, LLM, result" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=640&height=36&lines=Shipping+agentic+AI+to+production;LangChain+agents+%C2%B7+Text-to-SQL+%C2%B7+RAG;Next.js+16+%C2%B7+Express+5+%C2%B7+Postgres+%C2%B7+GCP;From+idea+to+production%2C+0+%E2%86%92+1" alt="Shipping agentic AI to production" />
 
 <a href="https://linkedin.com/in/gauravdev04"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logoColor=F97316" alt="LinkedIn" /></a>
 <a href="mailto:gauravmadan2004@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=F97316" alt="Email" /></a>
 
 </div>
 
-### I build the tech behind startups, before they have a tech team.
-
-I'm the founding engineer at **Mesa Startup Lab**, the incubator inside Mesa School of Business. When a founder walks in with an idea, I'm the one who turns it into a product: the architecture, the AI, the backend, the app and the deploy, usually solo and usually fast.
-
-That has meant taking an ed-tech startup's operations off spreadsheets so its founders could focus on selling (**monthly revenue went from ₹7–8L to ₹45–50L**), building an ad-tech product end to end ahead of its **₹40L pre-seed**, and replacing the school's Moodle with an LMS I wrote from scratch for **1,000+ students and faculty**.
-
-Right now I'm deep in **agentic AI that's safe to run in production**: agents that answer questions from live data without being able to break it, and a kit that lets non-technical founders ship real products with AI coding agents.
-
 <p align="center">
-  <img src="assets/terminal.svg?v=2" width="100%" alt="Terminal: whoami; tree of my stack (ai, backend, frontend, cloud); a git log of my journey from TCET in 2021 to founding engineer at Mesa; and a production build with types, tests, agent guardrails and deploy all passing" />
+  <img src="assets/terminal.svg?v=3" width="100%" alt="Terminal session: whoami, tree of my stack (ai, backend, frontend, cloud), a production build, and a git commit" />
 </p>
 
-## How I work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚀 Ship first, polish with users.**<br>
-<sub>A working product in front of real people beats a perfect plan. Feedback decides what gets built next.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**🧱 Boring foundations, ambitious features.**<br>
-<sub>Typed data, validated APIs and tests underneath, so the AI on top can be bold without being fragile.</sub>
-
-</td>
-</tr>
-<tr></tr>
-<tr>
-<td width="50%" valign="top">
-
-**💸 AI where it earns its cost.**<br>
-<sub>Cheap models do the bulk of the work; frontier models only step in when they change the answer.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Automate the ops, free the founders.**<br>
-<sub>Every manual spreadsheet is a feature waiting to be built, and founder time belongs to customers.</sub>
-
-</td>
-</tr>
-</table>
-
-## Under the hood
+## How my systems run
 
 <p align="center">
-  <img src="assets/agent-pipeline.svg?v=2" width="100%" alt="Animated agentic pipeline: Next.js client, Express API, LangChain router agent fanning out to text-to-SQL, RAG, search grounding and memory tools, then guardrails, an LLM tier and SSE streaming, deployed on Cloud Run" />
+  <img src="assets/agent-pipeline.svg?v=3" width="100%" alt="Animated agentic pipeline: Next.js client, Express API, LangChain router agent fanning out to text-to-SQL, RAG, search grounding and memory tools, then guardrails, an LLM tier and SSE streaming, deployed on Cloud Run" />
 </p>
 
 <div align="center">
@@ -70,6 +30,22 @@ Right now I'm deep in **agentic AI that's safe to run in production**: agents th
 <img src="https://skillicons.dev/icons?i=ts,py,nodejs,express,fastapi,postgres,prisma,mongodb,redis,react,nextjs,tailwind,gcp,firebase,docker,aws,githubactions,vercel&perline=18&theme=dark" width="100%" alt="TypeScript, Python, Node.js, Express, FastAPI, PostgreSQL, Prisma, MongoDB, Redis, React, Next.js, Tailwind, Google Cloud, Firebase, Docker, AWS, GitHub Actions, Vercel" />
 
 </div>
+
+## How I build
+
+```ts
+// engineering.config.ts
+export const howIBuild = {
+  agents:   "LangChain · tool-calling · guarded text-to-SQL · RAG with pgvector",
+  api:      "Express 5 + Zod validation → OpenAPI docs, generated not handwritten",
+  data:     "PostgreSQL + Kysely: typed SQL, migrations, no runtime ORM",
+  auth:     "rotating JWT · role-based portals",
+  frontend: "Next.js 16 · TanStack Query · shadcn/ui",
+  quality:  "TypeScript strict · Vitest",
+  ship:     "Docker → Cloud Build → Cloud Run",
+  aiCost:   "cheap models for discovery, frontier models only where they earn it",
+} as const;
+```
 
 ## Activity
 
@@ -85,8 +61,8 @@ Right now I'm deep in **agentic AI that's safe to run in production**: agents th
 
 <div align="center">
 
-**Have an idea that needs to become a product?** [Let's talk →](mailto:gauravmadan2004@gmail.com)
+**Open to** building AI products with founders and teams who want to ship. [Say hi →](mailto:gauravmadan2004@gmail.com)
 
 </div>
 
-<img src="assets/footer.svg?v=2" width="100%" alt="" />
+<img src="assets/footer.svg?v=3" width="100%" alt="" />
