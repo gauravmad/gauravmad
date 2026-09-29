@@ -1,9 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="96" viewBox="0 0 860 96" role="img" aria-label="End of profile: git commit -m thanks for stopping by">
 <defs>
+<style></style>
 <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#1F2937"/></pattern>
 <radialGradient id="glow-tr" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#F97316" stop-opacity="0.28"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
 <radialGradient id="glow-bl" cx="0%" cy="100%" r="60%"><stop offset="0" stop-color="#9A3412" stop-opacity="0.25"/><stop offset="1" stop-color="#9A3412" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow-top" cx="50%" cy="0%" r="55%"><stop offset="0" stop-color="#F97316" stop-opacity="0.22"/><stop offset="1" stop-color="#F97316" stop-opacity="0"/></radialGradient>
+<linearGradient id="name-grad" x1="0" x2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="0.55" stop-color="#FED7AA"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+<linearGradient id="helmet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#CBD5E1"/></linearGradient>
 <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="bloom" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="14"/></filter>
 </defs>
 <rect x="1" y="1" width="858" height="94" rx="14" fill="#0D1117"/><rect x="1" y="1" width="858" height="94" rx="14" fill="url(#dots)"/><rect x="1" y="1" width="858" height="94" rx="14" fill="url(#glow-tr)"/><rect x="1" y="1" width="858" height="94" rx="14" fill="url(#glow-bl)"/><rect x="1" y="1" width="858" height="94" rx="14" fill="none" stroke="#374151" stroke-width="1.5"/>
 <line x1="44" y1="38" x2="800" y2="38" stroke="#374151" stroke-width="2"/>
